@@ -109,6 +109,7 @@ $.getJSON("https://francini-ap.github.io/datos_tarea02/cbima/limite_cbima.geojso
 
   control_capas.addOverlay(capa_limite , 'Límite CBIMA');
 
+
 });	
 
 // Control de escala
